@@ -1,6 +1,6 @@
 ---
 title: 'BTL Website Redesign'
-subtitle: 'UX Design'
+subtitle: 'UX Design, Front-End Development'
 date: 2018-02-15 00:00:00
 description: A redesign of the company website with a focus on clear messaging and branding application.
 featured_image: '/images/btl-redesign/After.png'
